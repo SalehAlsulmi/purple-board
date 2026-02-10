@@ -64,3 +64,5 @@ purple-board/
 Screenshots of the application UI and database design can be found in the `screenshots/` folder.
 
 ---
+## Author
+Developed as an academic team project for university coursework.
