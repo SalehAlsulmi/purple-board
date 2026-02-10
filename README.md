@@ -31,21 +31,24 @@ The system database is designed using **ERD / Logical Schema** and implemented a
 ---
 
 ## Project Structure
+
+```text
 purple-board/
 ├── README.md
 ├── .gitignore
 ├── purple_board.sql
 ├── src/
-│ ├── App.java
-│ └── MainPanel.java
+│   ├── App.java
+│   └── MainPanel.java
 └── screenshots/
-├── LOGIN_PAGE.png
-├── STUDENT_PAGE.png
-├── INSTRUCTOR_MAIN_PAGE.png
-├── ADMIN_MAIN_PAGE.png
-├── SYSTEM_SEARCH.png
-├── Logical.png
-└── EERD.jpg
+    ├── LOGIN_PAGE.png
+    ├── STUDENT_PAGE.png
+    ├── INSTRUCTOR_MAIN_PAGE.png
+    ├── ADMIN_MAIN_PAGE.png
+    ├── SYSTEM_SEARCH.png
+    ├── Logical.png
+    └── EERD.jpg
+```
 
 ---
 
